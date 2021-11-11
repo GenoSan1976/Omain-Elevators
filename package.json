@@ -30,7 +30,7 @@
     "postinstall": "react-scripts build"
   },
   "engines": {
-    "node": "15.14.9",
+    "node": "6.11.1",
     "npm": "8.1.0"
   },  
   "eslintConfig": {
