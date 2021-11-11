@@ -62,7 +62,7 @@ const Header = ({ t }: any) => {
     <HeaderSection>
       <Container>
         <Row justify="space-between">
-          <LogoContainer to="/" aria-label="homepage">
+          <LogoContainer to= {process.env.PUBLIC_URL + "/"} aria-label="homepage">
             <SvgIcon src="logo.svg" width="150px" height="64px" />
           </LogoContainer>
           <NotHidden>

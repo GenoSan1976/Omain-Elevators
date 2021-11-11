@@ -1,6 +1,5 @@
 {
   "name": "my-app",
-  "homepage": "http://erscheinung.github.io/Omain-Tech-Website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

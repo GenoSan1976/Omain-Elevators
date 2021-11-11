@@ -21,7 +21,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="lift.svg"
+        icon= "lift.svg"
         id="intro"
       />
       <MiddleBlock
