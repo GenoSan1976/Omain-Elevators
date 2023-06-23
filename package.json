@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "gh-pages": "^5.0.0"
+    "deploy": "^1.0.3",
+    "gh-pages": "^5.0.0",
+    "gh-pages-deploy": "^0.5.1",
+    "package.json": "^2.0.1",
+    "pkg.json": "^2.0.8"
   }
 }
