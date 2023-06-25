@@ -152,7 +152,7 @@ const Footer = ({ t }: any) => {
                 src="github.svg"
               />
               <SocialLink
-                href="https://twitter.com/omaintech"
+                href="https://twitter.com/omainelevators"
                 src="twitter.svg"
               />
               <SocialLink
